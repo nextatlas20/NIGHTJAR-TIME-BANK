@@ -1,0 +1,12 @@
+cutoff = "2116-11-02T23:59:59Z"
+projects = 5
+valid_transactions = 11
+allocated_minutes = 465
+used_minutes = 390
+restored_minutes = 60
+net_minutes = 330
+remaining_minutes = 135
+overdrawn = 1
+exhausted = 1
+available = 3
+attention_rows = 2
