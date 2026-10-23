@@ -1,0 +1,3 @@
+Nightjar observing-time settlement evidence
+Cutoff: 2116-11-02T23:59:59Z
+Units: whole minutes
