@@ -1,0 +1,6 @@
+project_id,program,sector,allocated_minutes,review_rank
+OB-101,Comet Tail Survey,North,120,2
+OB-102,Exoplanet Transit,East,90,1
+OB-103,Lunar Occultation,South,60,4
+OB-104,Pulsar Timing,North,150,3
+OB-105,Aurora Spectrum,West,45,5
