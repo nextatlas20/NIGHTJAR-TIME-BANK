@@ -1,0 +1,6 @@
+project_id	program	sector	allocated_minutes	use_minutes	restored_minutes	net_minutes	remaining_minutes	status
+OB-102	Exoplanet Transit	East	90	70	15	55	35	AVAILABLE
+OB-101	Comet Tail Survey	North	120	155	10	145	-25	OVERDRAWN
+OB-104	Pulsar Timing	North	150	100	30	70	80	AVAILABLE
+OB-103	Lunar Occultation	South	60	20	5	15	45	AVAILABLE
+OB-105	Aurora Spectrum	West	45	45	0	45	0	EXHAUSTED
